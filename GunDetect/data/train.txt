@@ -1,0 +1,7 @@
+data/obj/bicycle.jpg
+data/obj/g1.jpg
+data/obj/im.jpg
+data/obj/t2.jpg
+data/obj/t5.jpg
+data/obj/x1.jpg
+data/obj/x2.jpg

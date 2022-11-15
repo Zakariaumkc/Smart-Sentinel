@@ -1,0 +1,4 @@
+python yolo.py --image True --image_path Images/t5.jpg
+python yolo.py --play_video True --video_path videos/cctv.mp4
+python yolo.py --webcam True
+
